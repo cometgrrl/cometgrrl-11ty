@@ -5,6 +5,7 @@ const eleventyNavigation = {
 };
 ---
 # About
+I started this blog waaaay back in 2002. It was briefly on Blogger, until I got the domain (cometgrrl.com) and moved it to MovableType. I liked MT quite a lot, but eventually moved to WordPress. And now, in 2025, I'm migrating to 11ty. 
 
 Some quick facts about me -
 
