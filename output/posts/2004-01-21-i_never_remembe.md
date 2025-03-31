@@ -1,8 +1,0 @@
----
-title: "I never remember on Friday..."
-date: 2004-01-21
-categories: 
-  - "imported-blog-posts"
----
-
-the friday five 1. What does it say in the signature line of your emails? At the moment -- "You fall in love, they break your heart. You fall in love again, it's never ending." From the song _Giving up on Love_, by the Ataris. 2. Did you have a senior quote in your high school yearbook? What was it? If you haven't graduated yet, what would you like your quote to be? I believe it said "Darth Vader was a Russian _potato_, get it right." ... I had a friend who had a habit of saying Darth Vader was a Russian tomato, and I was making fun of him. 3. If you had vanity plates on your car, what would they read? If you already have them, what do they say? Used to have them on my first car, as a gift from my dad. They just had my name on them. If I got them now, they'd say "Cometgrrl" of course! 4. Have you received any gifts with messages engraved upon them? What did the inscription say? Mostly just stuff with my name on them, or when I graduated from high school I got a lot of stuff that said "Class of 1996." Rebekah once gave me a necklace that said "Happy Birthday!" on one side and "love your little sis" on the other. I think I threw it out the window of my car after we stopping speaking. Or in the trash is more likely, since I make it a habit to not litter! 5. What would you like your epitaph to be? Something romantic, maybe "Immortal Beloved" like in the movie about Beethoven. If not, then a quote from the Hitchhiker's Guide to the Galaxy might be appropriate. "Mostly harmless." haha.

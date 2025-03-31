@@ -1,8 +1,0 @@
----
-title: "Aptera... the future of cars?"
-date: 2007-12-29
-categories: 
-  - "imported-blog-posts"
----
-
-So, I was just reading that Honda won't be mass producing hydrogen cars for about another 10 years. Anyway, I came across a link to Aptera and I am very intrigued. I have to say, they are very odd looking... but 300 miles to the gallon on the hybrid electric model! Apparently the Aptera typ-1 will begin production late 2008 and can be reserved (by California residents only) for a mere $500. Final prices are expected to be around $26,900 for the electric and $29,000 for the hybrid electric model, both available only in white to start. I am very tempted to reserve one, but since I don't know where I will be job-wise in year, I think it's probably best to wait and see. According the FAQs on Aptera's website, the car is classified as an _enclosed motorcycle_, and as such, won't require a front license plate, but also will not require a motorcycle license either. I've been considering purchasing a hybrid Civic, once my current Civic bites the dust, but more and more, I don't see the point. I mean, a hybrid Civic gets good gas mileage, but nothing fantastic (when you compare to Aptera's stated 300 miles per gallon!). I am still not convinced that the production (and disposal) of batteries for hybrid cars is a lesser evil compared to reliance on gasoline and fossil fuels in general. Also, I really really want an Audi A5, which I am sure is just a gas hog. It's good to finally see some new car innovations. I know the Prius was remarkable, but it merely doubled fuel economy over the Civic, whereas the claims made by Aptera are almost 10x the gas mileage of my car!
