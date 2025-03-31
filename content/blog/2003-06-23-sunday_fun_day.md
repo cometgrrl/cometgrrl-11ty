@@ -1,0 +1,9 @@
+---
+title: "Sunday, fun day"
+date: 2003-06-23
+categories: 
+  - "42"
+  - "imported-blog-posts"
+---
+
+Normally, I'm a lazy bum on Sundays. Every now and then, I'll go shopping or do laundry, clean my room... but usually I'm lazy on Sundays. Not today. Within 10 minutes of getting out of bed, I was on my way down to the unoffical "dog park" in my neighborhood. Spent about 45 minutes down there with my babies and Danielle and her dog, Scout. Then we came back and went to the pool for 2 hours. Did some swimming, got a nice tan, that's now bright red... ha. After the pool, I took a shower, dropped Danielle off at the store. Went to Comp USA to replace my keyboard (yes, Bailey ruined another keyboard -- this time it was red wine instead of water -- the good news is the new keyboard is "spillproof" and only cost $9.99!!). After all that, we went BACK to the "dog park" for another hour and a half. I'm sure that helped the sunburn, altho I did put on sunscreen at that point. Finally ate dinner (and lunch and breakfast, unless the candy bar in the counts for something??) at 8ish, and finished watching "Life is Beautiful". I thought it was a really good movie, but I don't understand why Guido had to (SPOILER -- skip to next paragraph if you don't want the movie ending given away) die at the end. Other than that, I thought it was really well done, and I'm going to watch it again this week with the English language track... the subtitles were cool and I liked listening to the Italian, but I've heard it's good both ways. Now I'm just chillin', putting aloe on my burns and waiting until it's time to go get B at the airport. When I agreed to pick him up, I had no idea it would be at 11:45 pm. I thought 11:00 maybe... HA. And his flights late by at least 10 minutes. It better not be any later than that, or he'll just have to find another way home. I'm gonna sleep well tonight!

@@ -1,0 +1,8 @@
+---
+title: "You're so goooood lookin'"
+date: 2008-04-08
+categories: 
+  - "imported-blog-posts"
+---
+
+A co-worker of mine quotes Seinfeld on a daily basis by saying "You're so goooood lookin'" after a person sneezes in place of "God bless you". I believe the full line from Seinfeld (said by Jerry) was "If you want to make a person feel better after they sneeze, you shouldn't say 'God bless you.' You should say 'You're so good looking!'" This made me realize that while I typically will say "bless you", I am not religious and I don't believe that your soul is escaping or that the devil might be taking over your body in the space between a sneeze and someone saying "God bless you". I also don't believe that your heart stops and that you need encouragement to continue living. There was a time when I would say "gesundheit", but as I was thinking about this recently, I was not 100% sure I knew the exact meaning. Turns out it's German for "health". It seems to me that it's perfectly reasonable to wish someone good health after a sneeze, but I am not entirely sure I want to go around saying "gesundheit". As it turns out, there are many ways, and many languages, in which I could be saying this, or something to this effect. At the moment, I'm not sure what I'll settle on, but I think to start, I'm going to try to just say nothing. I mean, if someone farted near me, I wouldn't say "bless you", I'd just cover my nose and try not to gag. :) Actually, it might be kind of funny to see what sort of responses I'd get if I started saying something like "Oh f\*&k off!" every time someone sneezes.
