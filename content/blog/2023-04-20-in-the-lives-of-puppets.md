@@ -8,7 +8,7 @@ tags:
   - "fantasy"
   - "fiction"
   - "netgalley"
-  - "scifi"
+  - "Sci-Fi"
 coverImage: "In-the-Lives-of-Puppets.jpeg"
 ---
 
