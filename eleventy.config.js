@@ -24,7 +24,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig
 		.addPassthroughCopy({
 			"./public/": "/",
-			"./content/images/": "/imgages/",
+			"./content/images/": "/images/",
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 
@@ -80,7 +80,7 @@ export default async function (eleventyConfig) {
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
+		formats: ["webp", "auto"],
 
 		// widths: ["auto"],
 
